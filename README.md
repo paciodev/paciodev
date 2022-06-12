@@ -2,7 +2,7 @@
 
 - 🎈 I want to be a **Fullstack Developer**
 
-- 🌱 I’m currently learning: **Next.js** and **Tailwind CSS**
+- 🌱 I’m currently learning: **Express** and **MongoDB**
 
 - 👨‍💻 All of my projects are available at [my website](https://pacio.dev#work)
 
