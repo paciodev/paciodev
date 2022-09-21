@@ -2,11 +2,9 @@
 
 - 🎈 I want to be a **Fullstack Developer**
 
-- 🌱 I’m currently learning: **Express** and **MongoDB**
+- 👨‍💻 All of my projects are available at [my website](https://pacio.dev) ~~Currenly not working~~
 
-- 👨‍💻 All of my projects are available at [my website](https://pacio.dev#work)
-
-- 📫 How to reach me: **kontakt@pacio.dev**
+- 📫 How to reach me: **kontaktpacio@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,7 +12,7 @@
 <a href="https://instagram.com/paciotenpros" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="paciodev" height="40" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCdKDr9GeZ7Mkt1dnGWxSM6Q" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="paciodev" height="30" width="40" /></a>
 
-<h3 align="left">Technologies I use:</h3>
+<h3 align="left">Technologies I know:</h3>
 
 <a href="https://reactjs.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="45" height="40"/> </a>
 <a href="https://nextjs.org" target="_blank"> <img src="https://miro.medium.com/max/1200/1*xsMYIt3m_cleoHcd-Ncozg.png" alt="nextjs" width="40" height="40"/> </a>
