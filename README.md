@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: **my portfolio**<br>🌱 I’m currently learning: **creating stunning designs**<br>💬 Ask me about: **fullstack development**<br>⚡ Fun fact: **I am 14 years old**
+🔭 I’m currently working on: **my portfolio**<br>🌱 I’m currently learning: **creating stunning designs**<br>💬 Ask me about: **fullstack development**<br>⚡ Fun fact: **I am 15 years old**
 
 
 ## 🌐 Socials:
