@@ -1,4 +1,4 @@
-<h1 align="center">Hi! My name is Patryk and I'm a Web Developer, from Poland.</h1>
+<h1 align="center">Hi! My name is Patryk and I'm a Web Developer from Poland.</h1>
 
 <br />
 
