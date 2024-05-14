@@ -1,6 +1,4 @@
-<h1 align="center">Hi! My name is Patryk and I'm a Web Developer from Poland.</h1>
-
-<br />
+<h1 align="center">Hi! My name is Patryk, and I am 16 years old.<br>Aspiring to be a fullstack dev.</h1>
 
 <h3 align='center'>My main skills:</p>
 <div align="center">
@@ -8,7 +6,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="42" alt="nextjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/prisma.png" height="30" width="35" alt="prisma logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png" height="30" width="42" alt="tailwindcss logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
 </div>
@@ -23,9 +21,6 @@
   </a>
   <a href="https://www.youtube.com/channel/UCdKDr9GeZ7Mkt1dnGWxSM6Q" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://twitter.com/hejtupacio" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
   </a>
 </div>
 
